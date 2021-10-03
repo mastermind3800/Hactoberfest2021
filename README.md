@@ -8,6 +8,7 @@
 
 #### Remember Win Hearts 💕 not just swags
 #### Contribute to opensourse 
+#### Win exciting prize
 ###  Happy Hacktoberfesrt 2021 :)
 
 ## General Rules
